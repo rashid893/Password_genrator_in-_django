@@ -1,2 +1,2 @@
-# Password_genrator_in-_django
+# Password_genrator_in_django
 genrate password in django 
